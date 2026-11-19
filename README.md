@@ -74,7 +74,11 @@ Each project contains objectives, scope, prerequisites, lab architecture, tool s
 Screenshots in this repository are **simulated training illustrations**. They are not captured from a live customer environment and must never be represented as real assessment evidence.
 
 ## Progress
-- [x] Project 01 — Lab Setup
-- [ ] Projects 02–50
+- [x] Project 01 — Active Directory Penetration Testing Lab Setup
+- [x] Project 02 — Windows Server Domain Controller Installation
+- [x] Project 03 — Active Directory Domain and Forest Enumeration
+- [x] Project 04 — Domain User and Group Enumeration
+- [x] Project 05 — Computer and Server Enumeration
+- [ ] Projects 06–50
 
-See [Project 01](projects/01-active-directory-lab-setup/README.md) to begin.
+Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–05.
