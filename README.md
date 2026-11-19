@@ -28,26 +28,26 @@ A structured, hands-on collection of 50 Active Directory security assessment pro
 ### Intermediate — 16–35
 | # | Project |
 |---:|---|
-| 16 | BloodHound Active Directory Analysis |
-| 17 | SharpHound Data Collection and Analysis |
-| 18 | Active Directory ACL Enumeration |
-| 19 | Dangerous ACL and Permission Abuse Assessment |
-| 20 | Unconstrained Delegation Assessment |
-| 21 | Constrained Delegation Assessment |
-| 22 | Resource-Based Constrained Delegation Assessment |
-| 23 | Domain Trust Enumeration |
-| 24 | Cross-Domain Trust Security Assessment |
-| 25 | LAPS and Windows LAPS Security Assessment |
-| 26 | Local Administrator Password Reuse Assessment |
-| 27 | Domain Controller Security Assessment |
-| 28 | Windows Credential Exposure Assessment |
-| 29 | Cached Credentials and Credential Hygiene |
-| 30 | NTLM Authentication Security Assessment |
-| 31 | LDAP Signing and Channel Binding Assessment |
-| 32 | SMB Signing and Relay Exposure Assessment |
-| 33 | Active Directory Certificate Services Enumeration |
-| 34 | ADCS Misconfiguration Assessment — ESC1 |
-| 35 | ADCS Misconfiguration Assessment — ESC2 and ESC3 |
+| 16 | [BloodHound Active Directory Analysis](projects/16-bloodhound-ad-analysis/README.md) |
+| 17 | [SharpHound Data Collection and Analysis](projects/17-sharphound-data-collection/README.md) |
+| 18 | [Active Directory ACL Enumeration](projects/18-ad-acl-enumeration/README.md) |
+| 19 | [Dangerous ACL and Permission Abuse Assessment](projects/19-dangerous-acl-permission-assessment/README.md) |
+| 20 | [Unconstrained Delegation Assessment](projects/20-unconstrained-delegation-assessment/README.md) |
+| 21 | [Constrained Delegation Assessment](projects/21-constrained-delegation-assessment/README.md) |
+| 22 | [Resource-Based Constrained Delegation Assessment](projects/22-resource-based-constrained-delegation-assessment/README.md) |
+| 23 | [Domain Trust Enumeration](projects/23-domain-trust-enumeration/README.md) |
+| 24 | [Cross-Domain Trust Security Assessment](projects/24-cross-domain-trust-security-assessment/README.md) |
+| 25 | [LAPS and Windows LAPS Security Assessment](projects/25-laps-windows-laps-assessment/README.md) |
+| 26 | [Local Administrator Password Reuse Assessment](projects/26-local-admin-password-reuse/README.md) |
+| 27 | [Domain Controller Security Assessment](projects/27-domain-controller-security-assessment/README.md) |
+| 28 | [Windows Credential Exposure Assessment](projects/28-windows-credential-exposure/README.md) |
+| 29 | [Cached Credentials and Credential Hygiene](projects/29-cached-credentials-hygiene/README.md) |
+| 30 | [NTLM Authentication Security Assessment](projects/30-ntlm-authentication-assessment/README.md) |
+| 31 | [LDAP Signing and Channel Binding Assessment](projects/31-ldap-signing-channel-binding/README.md) |
+| 32 | [SMB Signing and Relay Exposure Assessment](projects/32-smb-signing-relay-exposure/README.md) |
+| 33 | [Active Directory Certificate Services Enumeration](projects/33-adcs-enumeration/README.md) |
+| 34 | [ADCS Misconfiguration Assessment — ESC1](projects/34-adcs-esc1-assessment/README.md) |
+| 35 | [ADCS Misconfiguration Assessment — ESC2 and ESC3](projects/35-adcs-esc2-esc3-assessment/README.md) |
 
 ### Advanced — 36–50
 | # | Project |
@@ -89,6 +89,26 @@ Screenshots in this repository are **simulated training illustrations**. They ar
 - [x] Project 13 — Kerberos Authentication Fundamentals
 - [x] Project 14 — Kerberoasting Assessment
 - [x] Project 15 — AS-REP Roasting Assessment
-- [ ] Projects 16–50
+- [x] Project 16 — BloodHound Active Directory Analysis
+- [x] Project 17 — SharpHound Data Collection and Analysis
+- [x] Project 18 — Active Directory ACL Enumeration
+- [x] Project 19 — Dangerous ACL and Permission Abuse Assessment
+- [x] Project 20 — Unconstrained Delegation Assessment
+- [x] Project 21 — Constrained Delegation Assessment
+- [x] Project 22 — Resource-Based Constrained Delegation Assessment
+- [x] Project 23 — Domain Trust Enumeration
+- [x] Project 24 — Cross-Domain Trust Security Assessment
+- [x] Project 25 — LAPS and Windows LAPS Security Assessment
+- [x] Project 26 — Local Administrator Password Reuse Assessment
+- [x] Project 27 — Domain Controller Security Assessment
+- [x] Project 28 — Windows Credential Exposure Assessment
+- [x] Project 29 — Cached Credentials and Credential Hygiene
+- [x] Project 30 — NTLM Authentication Security Assessment
+- [x] Project 31 — LDAP Signing and Channel Binding Assessment
+- [x] Project 32 — SMB Signing and Relay Exposure Assessment
+- [x] Project 33 — Active Directory Certificate Services Enumeration
+- [x] Project 34 — ADCS Misconfiguration Assessment — ESC1
+- [x] Project 35 — ADCS Misconfiguration Assessment — ESC2 and ESC3
+- [ ] Projects 36–50
 
-Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–15.
+Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–35.
