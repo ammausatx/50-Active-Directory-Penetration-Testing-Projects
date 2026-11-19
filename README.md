@@ -14,7 +14,7 @@ A structured, hands-on collection of 50 Active Directory security assessment pro
 | 03 | [Active Directory Domain and Forest Enumeration](projects/03-domain-and-forest-enumeration/README.md) |
 | 04 | [Domain User and Group Enumeration](projects/04-domain-users-and-groups-enumeration/README.md) |
 | 05 | [Computer and Server Enumeration](projects/05-computer-and-server-enumeration/README.md) |
-| 06 | PowerView Active Directory Enumeration |
+| 06 | [PowerView Active Directory Enumeration](projects/06-powerview-active-directory-enumeration/README.md) |
 | 07 | LDAP Enumeration and Information Gathering |
 | 08 | SMB Enumeration and Share Assessment |
 | 09 | SYSVOL and NETLOGON Security Assessment |
@@ -79,6 +79,7 @@ Screenshots in this repository are **simulated training illustrations**. They ar
 - [x] Project 03 — Active Directory Domain and Forest Enumeration
 - [x] Project 04 — Domain User and Group Enumeration
 - [x] Project 05 — Computer and Server Enumeration
-- [ ] Projects 06–50
+- [x] Project 06 — PowerView Active Directory Enumeration
+- [ ] Projects 07–50
 
-Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–05.
+Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–06.
