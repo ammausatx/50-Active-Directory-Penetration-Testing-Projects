@@ -52,21 +52,21 @@ A structured, hands-on collection of 50 Active Directory security assessment pro
 ### Advanced — 36–50
 | # | Project |
 |---:|---|
-| 36 | Advanced ADCS Assessment — ESC4 and ESC6 |
-| 37 | ADCS ESC8 Web Enrollment Assessment |
-| 38 | DCSync Permission and Replication Rights Assessment |
-| 39 | Domain Privilege Escalation Attack Path Analysis |
-| 40 | Domain Admin Exposure and Privileged Group Assessment |
-| 41 | Lateral Movement Risk Assessment |
-| 42 | Pass-the-Hash and Pass-the-Ticket Exposure Assessment |
-| 43 | Golden Ticket and Silver Ticket Security Assessment |
-| 44 | Active Directory Persistence Risk Assessment |
-| 45 | Forest and Enterprise Admin Security Assessment |
-| 46 | Active Directory Federation Services Assessment |
-| 47 | Hybrid Active Directory and Entra ID Security Assessment |
-| 48 | Active Directory Attack Path Automation with Python |
-| 49 | Complete Active Directory Red Team Assessment |
-| 50 | Enterprise Active Directory Penetration Testing Report |
+| 36 | [Advanced ADCS Assessment — ESC4 and ESC6](projects/36-adcs-esc4-esc6-assessment/README.md) |
+| 37 | [ADCS ESC8 Web Enrollment Assessment](projects/37-adcs-esc8-web-enrollment/README.md) |
+| 38 | [DCSync Permission and Replication Rights Assessment](projects/38-dcsync-permission-assessment/README.md) |
+| 39 | [Domain Privilege Escalation Attack Path Analysis](projects/39-domain-privilege-escalation-path-analysis/README.md) |
+| 40 | [Domain Admin Exposure and Privileged Group Assessment](projects/40-domain-admin-exposure/README.md) |
+| 41 | [Lateral Movement Risk Assessment](projects/41-lateral-movement-risk-assessment/README.md) |
+| 42 | [Pass-the-Hash and Pass-the-Ticket Exposure Assessment](projects/42-pass-the-hash-ticket-exposure/README.md) |
+| 43 | [Golden Ticket and Silver Ticket Security Assessment](projects/43-golden-silver-ticket-risk/README.md) |
+| 44 | [Active Directory Persistence Risk Assessment](projects/44-ad-persistence-risk-assessment/README.md) |
+| 45 | [Forest and Enterprise Admin Security Assessment](projects/45-forest-enterprise-admin-security/README.md) |
+| 46 | [Active Directory Federation Services Assessment](projects/46-adfs-security-assessment/README.md) |
+| 47 | [Hybrid Active Directory and Entra ID Security Assessment](projects/47-hybrid-ad-entra-id-assessment/README.md) |
+| 48 | [Active Directory Attack Path Automation with Python](projects/48-ad-attack-path-automation-python/README.md) |
+| 49 | [Complete Active Directory Red Team Assessment](projects/49-complete-ad-red-team-assessment/README.md) |
+| 50 | [Enterprise Active Directory Penetration Testing Report](projects/50-enterprise-ad-pentest-report/README.md) |
 
 ## Project format
 Each project contains objectives, scope, prerequisites, lab architecture, tool setup, a step-by-step procedure, example commands and expected output, findings and risk analysis, evidence guidance, remediation, and retesting.
@@ -109,6 +109,20 @@ Screenshots in this repository are **simulated training illustrations**. They ar
 - [x] Project 33 — Active Directory Certificate Services Enumeration
 - [x] Project 34 — ADCS Misconfiguration Assessment — ESC1
 - [x] Project 35 — ADCS Misconfiguration Assessment — ESC2 and ESC3
-- [ ] Projects 36–50
+- [x] Project 36 — Advanced ADCS Assessment — ESC4 and ESC6
+- [x] Project 37 — ADCS ESC8 Web Enrollment Assessment
+- [x] Project 38 — DCSync Permission and Replication Rights Assessment
+- [x] Project 39 — Domain Privilege Escalation Attack Path Analysis
+- [x] Project 40 — Domain Admin Exposure and Privileged Group Assessment
+- [x] Project 41 — Lateral Movement Risk Assessment
+- [x] Project 42 — Pass-the-Hash and Pass-the-Ticket Exposure Assessment
+- [x] Project 43 — Golden Ticket and Silver Ticket Security Assessment
+- [x] Project 44 — Active Directory Persistence Risk Assessment
+- [x] Project 45 — Forest and Enterprise Admin Security Assessment
+- [x] Project 46 — Active Directory Federation Services Assessment
+- [x] Project 47 — Hybrid Active Directory and Entra ID Security Assessment
+- [x] Project 48 — Active Directory Attack Path Automation with Python
+- [x] Project 49 — Complete Active Directory Red Team Assessment
+- [x] Project 50 — Enterprise Active Directory Penetration Testing Report
 
-Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–35.
+Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–50.
