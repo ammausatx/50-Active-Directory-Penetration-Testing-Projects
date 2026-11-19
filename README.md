@@ -9,11 +9,11 @@ A structured, hands-on collection of 50 Active Directory security assessment pro
 ### Beginner — 01–15
 | # | Project |
 |---:|---|
-| 01 | Active Directory Penetration Testing Lab Setup |
-| 02 | Windows Server Domain Controller Installation |
-| 03 | Active Directory Domain and Forest Enumeration |
-| 04 | Domain User and Group Enumeration |
-| 05 | Computer and Server Enumeration |
+| 01 | [Active Directory Penetration Testing Lab Setup](projects/01-active-directory-lab-setup/README.md) |
+| 02 | [Windows Server Domain Controller Installation](projects/02-windows-server-domain-controller/README.md) |
+| 03 | [Active Directory Domain and Forest Enumeration](projects/03-domain-and-forest-enumeration/README.md) |
+| 04 | [Domain User and Group Enumeration](projects/04-domain-users-and-groups-enumeration/README.md) |
+| 05 | [Computer and Server Enumeration](projects/05-computer-and-server-enumeration/README.md) |
 | 06 | PowerView Active Directory Enumeration |
 | 07 | LDAP Enumeration and Information Gathering |
 | 08 | SMB Enumeration and Share Assessment |
