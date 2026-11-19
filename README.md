@@ -15,15 +15,15 @@ A structured, hands-on collection of 50 Active Directory security assessment pro
 | 04 | [Domain User and Group Enumeration](projects/04-domain-users-and-groups-enumeration/README.md) |
 | 05 | [Computer and Server Enumeration](projects/05-computer-and-server-enumeration/README.md) |
 | 06 | [PowerView Active Directory Enumeration](projects/06-powerview-active-directory-enumeration/README.md) |
-| 07 | LDAP Enumeration and Information Gathering |
-| 08 | SMB Enumeration and Share Assessment |
-| 09 | SYSVOL and NETLOGON Security Assessment |
-| 10 | Group Policy Object (GPO) Security Assessment |
-| 11 | Password Policy and Account Lockout Assessment |
-| 12 | Password Spraying Risk Assessment |
-| 13 | Kerberos Authentication Fundamentals |
-| 14 | Kerberoasting Assessment |
-| 15 | AS-REP Roasting Assessment |
+| 07 | [LDAP Enumeration and Information Gathering](projects/07-ldap-enumeration/README.md) |
+| 08 | [SMB Enumeration and Share Assessment](projects/08-smb-enumeration/README.md) |
+| 09 | [SYSVOL and NETLOGON Security Assessment](projects/09-sysvol-netlogon-security/README.md) |
+| 10 | [Group Policy Object (GPO) Security Assessment](projects/10-gpo-security-assessment/README.md) |
+| 11 | [Password Policy and Account Lockout Assessment](projects/11-password-policy-account-lockout/README.md) |
+| 12 | [Password Spraying Risk Assessment](projects/12-password-spraying-risk-assessment/README.md) |
+| 13 | [Kerberos Authentication Fundamentals](projects/13-kerberos-authentication-fundamentals/README.md) |
+| 14 | [Kerberoasting Assessment](projects/14-kerberoasting-assessment/README.md) |
+| 15 | [AS-REP Roasting Assessment](projects/15-asrep-roasting-assessment/README.md) |
 
 ### Intermediate — 16–35
 | # | Project |
@@ -80,6 +80,15 @@ Screenshots in this repository are **simulated training illustrations**. They ar
 - [x] Project 04 — Domain User and Group Enumeration
 - [x] Project 05 — Computer and Server Enumeration
 - [x] Project 06 — PowerView Active Directory Enumeration
-- [ ] Projects 07–50
+- [x] Project 07 — LDAP Enumeration and Information Gathering
+- [x] Project 08 — SMB Enumeration and Share Assessment
+- [x] Project 09 — SYSVOL and NETLOGON Security Assessment
+- [x] Project 10 — Group Policy Object (GPO) Security Assessment
+- [x] Project 11 — Password Policy and Account Lockout Assessment
+- [x] Project 12 — Password Spraying Risk Assessment
+- [x] Project 13 — Kerberos Authentication Fundamentals
+- [x] Project 14 — Kerberoasting Assessment
+- [x] Project 15 — AS-REP Roasting Assessment
+- [ ] Projects 16–50
 
-Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–06.
+Start with [Project 01](projects/01-active-directory-lab-setup/README.md), then continue through Projects 02–15.
